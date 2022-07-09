@@ -31,7 +31,7 @@
                 <div class="footer">
     <div class="card text-center">
         <div class="card-footer text-muted">
-            &copy; &nbspDEVELOPED BY : <a href="https://github.com/ishinihathurusinghe" target="_blank" style="text-decoration: none;">Ishini Hathurusinghe</a> || 2022 May
+            &copy; &nbspDEVELOPED BY : <a href="https://github.com/ishinihathurusinghe" target="_blank" style="text-decoration: none;">Ishini Hathurusinghe</a> || 2022 April
         </div>
     </div>
 </div>
