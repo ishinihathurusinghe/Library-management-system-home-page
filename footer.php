@@ -54,6 +54,6 @@
         <script src="<?php echo base_url(); ?>asset/js/simple-datatables@latest.js" crossorigin="anonymous"></script>
         <script src="<?php echo base_url(); ?>asset/js/datatables-simple-demo.js"></script>
 
-    </body>
+     </body>
 
 </html>
